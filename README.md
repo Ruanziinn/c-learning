@@ -56,4 +56,9 @@ Este repositório será atualizado semanalmente, seguindo um cronograma discipli
 
 ## 📎 Licença
 
-Distribuído sob a licença GNU General Public License v3.0.  
+Este projeto está licenciado sob os termos da [MIT License](LICENSE).
+Você pode usá-lo, modificá-lo e distribuí-lo livremente, desde que mantenha os créditos.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+
