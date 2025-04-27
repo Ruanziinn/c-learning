@@ -1,5 +1,7 @@
 ## Strings
 
+Strings em C são arrays de caracteres terminados pelo caractere nulo '\0'.
+
 ### Declaração e Inicialização
 ```c
 // Declarações equivalentes

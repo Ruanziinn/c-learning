@@ -1,7 +1,7 @@
-# Arrays e Strings em C
+# Arrays em C
 
 ## Visão Geral
-Arrays são coleções de elementos do mesmo tipo armazenados sequencialmente na memória. Strings em C são arrays de caracteres terminados pelo caractere nulo '\0'.
+Arrays são coleções de elementos do mesmo tipo armazenados sequencialmente na memória.
 
 ## Arrays
 
