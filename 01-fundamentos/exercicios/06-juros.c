@@ -9,7 +9,7 @@ int main(){
 
     rendimento = valor + (valor * 0.007);
 
-    printf("Valor com rendimento: %.2f", valor);
+    printf("Valor com rendimento: %.2f", rendimento);
 
     return 0;
 }
