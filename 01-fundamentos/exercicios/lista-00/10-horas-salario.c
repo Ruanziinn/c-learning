@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+//Faça um algoritmo que dados o valor da hora trabalhada, o percentual de descontos e as
+//horas trabalhadas por um funcionário, apresente os valores de: Horas trabalhadas, Salário
+//Bruto, Desconto, Salário Líquido.
+
 int main() {
 
     float valorHora, horas, percentualDesc;

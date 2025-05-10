@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+//Faça um algoritmo que calcule a quantidade de litros de combustível gasta em uma viagem,
+//utilizando um automóvel que faz 12Km por litro. O programa deve apresentar os valores da
+//velocidade média, tempo gasto na viagem, a distância percorrida e a quantidade de litros
+//utilizada na viagem.
+
 int main() {
 
     float velocidadeMedia, tempo, distancia, litros;
