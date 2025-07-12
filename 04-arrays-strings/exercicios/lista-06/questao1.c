@@ -90,10 +90,7 @@ int main() {
     for(int k = 0; k < tamanho; k++){
         if(ehPrimo(vetor[k]) == 1){
             printf("%d ", vetor[k]);
-        } else {
-            continue;
-        }
-        
+        } 
     } 
     printf("\n");
 
