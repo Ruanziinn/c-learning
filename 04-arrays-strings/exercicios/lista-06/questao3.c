@@ -33,13 +33,11 @@ int somaDiagonais(int n, int matriz[n][n]){
     int sum = 0;
 
     for(int i = 0; i < n; i++){
-        sum += matriz[i][i];             // diagonal principal
-        sum += matriz[i][n - 1 - i];     // diagonal secundária
-    }
-
-    if (n % 2 == 1) {
-        int meio = n / 2;
-        sum -= matriz[meio][meio];         // subtrai o centro duplicado
+        for(int j = 0; j < n; j++){
+            if(i == j){
+            sum += matriz[i][j];    
+            }
+        }
     }
 
     return sum;
