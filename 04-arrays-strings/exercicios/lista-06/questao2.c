@@ -26,7 +26,7 @@ void trocarValores(int vetor[]){
     }
     
     for (int i = 0; i < 7; i++) {
-        vetor[i] = vetorAux[i];
+        printf("%d\n", vetorAux[i]);
     }
 
 }
@@ -73,7 +73,6 @@ int main() {
             case 3: {
                 printf("\nVetor com valores trocados\n");
                 trocarValores(vetor);
-                listarVetor(vetor);
                 printf("\n");
                 break;
             }
